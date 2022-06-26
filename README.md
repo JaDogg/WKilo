@@ -1,5 +1,7 @@
 # 🪟🪟 WKilo 🪟🪟
 
+![](https://github.com/JaDogg/WKilo/blob/main/wkilo.gif)
+
 - 🪟 Windows Port of kilo text editor [tutorial source](https://github.com/snaptoken/kilo-src)
 - Original tutorial can be found [here](https://viewsourcecode.org/snaptoken/kilo/index.html)
 - Which is based on [antirez’s kilo](https://github.com/antirez/kilo)
